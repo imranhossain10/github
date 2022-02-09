@@ -1,0 +1,5 @@
+*.log
+ignored.txt
+/dir/
+static/dir
+rename.txt
